@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MyDebug" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YES</Value>
+    </Setting>
+    <Setting Name="SMTPService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">spbprd5</Value>
+    </Setting>
+    <Setting Name="DiadocApiURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://diadoc-api.kontur.ru</Value>
+    </Setting>
+    <Setting Name="DeveloperKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">elektroskandia-c89ac29f-1402-470e-88f1-a624d3a530d2</Value>
+    </Setting>
+    <Setting Name="MyPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">!Alexandr37</Value>
+    </Setting>
+    <Setting Name="MyboxId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">b840c0b7-b3c4-4a79-b3f6-0dbda4efe9a7</Value>
+    </Setting>
+    <Setting Name="MyArchivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\spbsca\DiskX\EDOArchive</Value>
+    </Setting>
+    <Setting Name="MyOverwriteFlag" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="NumberDownloadTries" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="MessageTo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ITDep@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="MessageCC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ReportServer_Buh16@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="MessageFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">reportserver@skandikagroup.ru</Value>
+    </Setting>
+    <Setting Name="MyLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">alexander.novozhilov@skandikagroup.ru</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
